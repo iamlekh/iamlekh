@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Welcome to My GitHub Pages
 
-<!--
-**iamlekh/iamlekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+_Checkout my blog_
+
+[https://medium.com/@darpanlekharu4](url) 
 
 Here are some ideas to get you started:
 
