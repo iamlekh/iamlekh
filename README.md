@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to My GitHub Pages
 
 
-_Checkout my blog_ @ [https://medium.com/@darpanlekharu4](url) 
+_Checkout my blog_ @ [https://medium.com/@darpanlekharu4](https://medium.com/@darpanlekharu4) 
 
 
 - 🔭 I’m currently working on computer vision usecase
