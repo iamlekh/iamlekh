@@ -1,13 +1,8 @@
 ### Hi there 👋 Welcome to My GitHub Pages
 
-
-_Checkout my blog_ @ [https://medium.com/@darpanlekharu4](https://medium.com/@darpanlekharu4) 
-
-
 - 🔭 I’m currently working on computer vision usecase
 - 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about DS
+- 👯 I’m looking to collaborate on Data science and AI Projects.
 - 📫 How to reach me: darpanlekharu@gmail.com
 - ⚡ Fun fact: Will let you know.
 ### Connect with Me
@@ -15,5 +10,5 @@ _Checkout my blog_ @ [https://medium.com/@darpanlekharu4](https://medium.com/@da
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/darpan-lekharu/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@darpanlekharu4)
 
-![Darpan's github stats](https://github-readme-stats.vercel.app/api?username=iamlekh&show_icons=true&theme=dark)
+![Darpan's github stats](https://github-readme-stats.vercel.app/api?username=iamlekh&hide=contribs,prs,stars,issues&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlekh&theme=cobalt&layout=compact)
