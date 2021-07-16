@@ -10,5 +10,3 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@darpanlekharu4)
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:darpanlekharu@gmail.com)
 	
-![Darpan's github stats](https://github-readme-stats.vercel.app/api?username=iamlekh&hide=contribs,prs,stars,issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlekh&theme=cobalt&layout=compact)
